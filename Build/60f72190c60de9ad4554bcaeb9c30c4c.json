@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project_Boost",
+"dataUrl": "08c0f4d9167a9fe8f5d89831bdc56b17.unityweb",
+"wasmCodeUrl": "accc478379fdd20f5d738572c63c3e28.unityweb",
+"wasmFrameworkUrl": "453cb50d46ba7be124ee379480c783c8.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
